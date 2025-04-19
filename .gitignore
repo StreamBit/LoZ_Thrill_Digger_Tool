@@ -1,0 +1,23 @@
+# C++ build artifacts
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.dll
+
+# Python caches, virtualenvs, PyInstaller bundles
+__pycache__/
+*.py[cod]
+*.pyd
+venv/
+env/
+build/
+dist/
+*.spec
+
+# Qt‑Creator / VSCode / IDE configs (optional)
+*.user
+*.user.*
+*.pro.user
+.vscode/
